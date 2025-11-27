@@ -14,8 +14,8 @@
 
 ```bash
 1. Клонирование репозитория
-git clone git@github.com:Katrin-Pochtar/MLOps.git
-cd <ИМЯ_ПАПКИ>
+git clone git@github.com:Katrin-Pochtar/mlops_hw1_Pochtar_Katrin.git
+cd mlops_hw1_Pochtar_Katrin
 
 2. Установка зависимостей
 pip install -r requirements.txt
